@@ -1,4 +1,4 @@
-name: Deploy Hello World App
+name: Deploy Hello-World-app
 
 on:
  push:
